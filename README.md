@@ -1,97 +1,64 @@
-🌟 Hi, I'm Meshak Nego!
-Aspiring Java Developer | Web Developer | Problem Solver | Tech Enthusiast
+<h1 align="center">Hi 👋, I'm Meshak Nego</h1>
+<h3 align="center">💻 Full-Stack Developer | Java • React • SQL | Passionate About Clean Code & Scalable Systems</h3>
 
-Welcome to my GitHub! I’m passionate about building impactful digital solutions — especially in Java, Web Development, and AI-driven applications.
-I love exploring how technology can make everyday systems smarter, faster, and more secure.
+---
 
-🚀 About Me
+## 🚀 About Me  
+I’m a developer who loves turning ideas into real functional projects.  
+I focus on **Java**, **React**, and **SQL**, and I enjoy building applications that solve real-world problems — especially in areas like **secure authentication**, **deep learning**, and **face recognition technologies**.
 
-🎓 Computer Engineering graduate
+I believe in continuous learning and improving every day.  
+Currently exploring:
+- 🔹 **Spring Boot** for backend services  
+- 🔹 **React** for scalable front-end development  
+- 🔹 **Machine learning models for face recognition**  
+- 🔹 **System design & clean architecture**  
 
-💻 Passionate about Java, SQL, Servlets, JSP, React, Spring Boot, and Web Technologies
+---
 
-🔍 Interested in AI + Web + Security-based projects
+## 🛠️ Tech Stack
 
-📚 Constantly learning, improving, and building new things
+### **Languages**
+- Java  
+- JavaScript  
+- Python  
+- SQL  
 
-🤝 Love collaborating on open-source and solving real-world problems
+### **Frontend**
+- React.js  
+- HTML5 • CSS3 • Tailwind CSS  
 
-🛠️ Tech Stack
-Languages
+### **Backend**
+- Spring Boot  
+- Flask  
 
-Java
+### **Tools & Platforms**
+- GitHub • Git  
+- VS Code • IntelliJ IDEA • Eclipse  
+- MySQL • DBeaver • XAMPP  
 
-JavaScript
+---
 
-SQL
+## 🔥 Featured Project  
+### **🔐 Smart E-Voting System using Face Recognition**
+A secure online voting platform designed using  
+**OpenCV, Haar Cascades, Deep Learning, MySQL, Flask**  
 
-Python (for CV/AI projects)
+✨ Highlights:  
+- Face-based voter authentication  
+- Instant vote tallying  
+- Fraud-free system  
+- Transparent & scalable architecture  
 
-Backend
+🔗 *Project uploading soon… stay tuned!*  
 
-Java Servlets & JSP
+---
 
-Spring Boot
+## 📫 Connect With Me  
+📧 Email: **negomeshak@gmail.com**  
+🔗 LinkedIn: **https://www.linkedin.com/in/nego00/**  
 
-JDBC
+---
 
-REST APIs
+### ⭐ If you like my projects, consider giving them a star!
 
-Frontend
-
-HTML, CSS
-
-Tailwind CSS
-
-JavaScript
-
-React.js
-
-Database
-
-MySQL
-
-SQL Joins, Indexing, Normalization
-
-Tools
-
-Git & GitHub
-
-Eclipse
-
-IntelliJ
-
-VS Code
-
-Tomcat Server
-
-🔥 Highlighted Project
-🗳️ Smart E-Voting System (Face Recognition Based)
-
-A secure, AI-driven online voting platform using OpenCV, Deep Learning, Python, and MySQL to ensure:
-
-High security
-
-Fraud prevention
-
-Instant results
-
-Voter identity verification using facial recognition
-
-🔗 Your repo link will be added here once pushed
-
-🎯 What I’m Focusing On Now
-
-Strengthening Java backend development
-
-Building more real-world projects
-
-Learning advanced SQL & database design
-
-Mastering React & Spring Boot
-
-📫 Let’s Connect
-
-LinkedIn: https://www.linkedin.com/in/nego00/
-
-Email: negomeshak@gmail.com
