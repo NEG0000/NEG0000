@@ -1,64 +1,80 @@
 <h1 align="center">Hi 👋, I'm Meshak Nego</h1>
-<h3 align="center">💻 Full-Stack Developer | Java • React • SQL | Passionate About Clean Code & Scalable Systems</h3>
+<h3 align="center">Aspiring Software Developer | Java • Web Development • Full-Stack Enthusiast</h3>
+
+<p align="center">
+  <a href="https://github.com/NEG0000"><img src="https://img.shields.io/github/followers/NEG0000?style=flat-square&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/nego00/"><img src="https://img.shields.io/badge/LinkedIn-Meshak%20Nego-blue?style=flat-square&logo=linkedin" /></a>
+</p>
 
 ---
 
-## 🚀 About Me  
-I’m a developer who loves turning ideas into real functional projects.  
-I focus on **Java**, **React**, and **SQL**, and I enjoy building applications that solve real-world problems — especially in areas like **secure authentication**, **deep learning**, and **face recognition technologies**.
+## 🚀 **About Me**
+I’m a passionate developer who enjoys building smart, secure, and scalable applications.  
+My journey started with Java and Web Development, and I’ve grown into exploring deeper areas like  
+facial recognition, machine learning models, backend APIs, and fully functional end-to-end systems.
 
-I believe in continuous learning and improving every day.  
-Currently exploring:
-- 🔹 **Spring Boot** for backend services  
-- 🔹 **React** for scalable front-end development  
-- 🔹 **Machine learning models for face recognition**  
-- 🔹 **System design & clean architecture**  
+I love solving real-world problems through clean code, logical thinking, and modern tech stacks.  
+My goal is to become a strong **Full-Stack Developer** capable of building seamless user experiences  
+with powerful backend systems.
 
 ---
 
-## 🛠️ Tech Stack
-
+## 🧠 **Tech Stack & Tools I Use**
 ### **Languages**
-- Java  
-- JavaScript  
-- Python  
-- SQL  
+- Java, Python, JavaScript  
+- SQL (MySQL), HTML, CSS (including Tailwind CSS)
 
-### **Frontend**
-- React.js  
-- HTML5 • CSS3 • Tailwind CSS  
+### **Frameworks & Libraries**
+- **React.js**  
+- **Spring Boot**  
+- OpenCV, TensorFlow, Flask  
+- Node.js (learning phase)
 
-### **Backend**
-- Spring Boot  
-- Flask  
-
-### **Tools & Platforms**
-- GitHub • Git  
-- VS Code • IntelliJ IDEA • Eclipse  
-- MySQL • DBeaver • XAMPP  
+### **Developer Tools**
+- Git & GitHub  
+- VS Code, IntelliJ IDEA, Eclipse  
+- Postman, DBeaver, XAMPP  
 
 ---
 
-## 🔥 Featured Project  
-### **🔐 Smart E-Voting System using Face Recognition**
-A secure online voting platform designed using  
-**OpenCV, Haar Cascades, Deep Learning, MySQL, Flask**  
+## 🔥 **Highlighted Projects**
+### ✨ **Smart E-Voting System Using Face Recognition**
+A secure online voting platform powered by:
+- Deep Learning  
+- OpenCV + Haar Cascades  
+- Flask Backend  
+- MySQL Database  
+- Real-time face recognition  
 
-✨ Highlights:  
-- Face-based voter authentication  
-- Instant vote tallying  
-- Fraud-free system  
-- Transparent & scalable architecture  
+✔ Eliminates vote fraud  
+✔ Provides faster & transparent results  
+✔ Designed with modern UI + security protocols  
 
-🔗 *Project uploading soon… stay tuned!*  
-
----
-
-## 📫 Connect With Me  
-📧 Email: **negomeshak@gmail.com**  
-🔗 LinkedIn: **https://www.linkedin.com/in/nego00/**  
+👉 *This project demonstrates my ability to combine AI, backend logic, and database workflows.*
 
 ---
 
-### ⭐ If you like my projects, consider giving them a star!
+## 📊 **GitHub Stats**
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NEG0000&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NEG0000&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🎯 **What I'm Currently Working On**
+- Building advanced full-stack applications  
+- Improving React + Spring Boot integration  
+- Diving deeper into machine learning workflows  
+- Writing cleaner, scalable, production-ready code  
+
+---
+
+## 🤝 **Let’s Connect**
+If you're interested in collaborating, discussing tech, or exploring project ideas — feel free to reach out!
+
+📧 **Email:** negomeshak@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/nego00/
+
+---
 
